@@ -111,6 +111,7 @@ void client() {
 
 
 ## OUTPUT
+
 ![Alt text](<../img/Screenshot at 2026-05-26 16-19-18.png>)
 
 
@@ -195,6 +196,7 @@ void client(int wfd, int rfd) {
 
 
 ## OUTPUT
+
 ![Alt text](<../img/Screenshot at 2026-05-26 16-33-41.png>)
 
 
