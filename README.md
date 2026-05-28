@@ -111,7 +111,8 @@ void client() {
 
 
 ## OUTPUT
-![Alt text](<../img/Screenshot at 2026-05-28 11-02-59.png>)
+<img width="512" height="236" alt="image" src="https://github.com/user-attachments/assets/2713364e-c321-4a73-b5f6-5f622020dbbf" />
+
 
 
 
@@ -196,7 +197,8 @@ void client(int wfd, int rfd) {
 
 
 ## OUTPUT
-![Alt text](<../img/Screenshot at 2026-05-28 11-03-48.png>)
+<img width="481" height="169" alt="image" src="https://github.com/user-attachments/assets/5b55363e-bc9f-4df5-95aa-9aef54748bb9" />
+
 
 
 
